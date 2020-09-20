@@ -1,4 +1,5 @@
 {
+  "name": "umi3-subapp",
   "private": true,
   "scripts": {
     "start": "umi dev",
@@ -29,5 +30,8 @@
     "react-dom": "^16.12.0",
     "umi": "^3.2.16",
     "yorkie": "^2.0.0"
+  },
+  "devDependencies": {
+    "@umijs/plugin-qiankun": "^2.8.1"
   }
 }
