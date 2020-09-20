@@ -1,15 +1,6 @@
-# umi project
+# umi 3 子应用模板
 
-## Getting Started
+本仓库是 `umi3-subapp-cli` 的工程模板仓库。
 
-Install dependencies,
-
-```bash
-$ yarn
-```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
+umi3-subapp-cli：
+https://github.com/blueju/umi3-subapp-cli
