@@ -1,5 +1,5 @@
 {
-  "name": "umi3-subapp",
+  "name": "umi-subapp",
   "private": true,
   "scripts": {
     "start": "umi dev",
